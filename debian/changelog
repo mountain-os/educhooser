@@ -1,0 +1,13 @@
+ec (1.0.2) jammy; urgency=medium
+
+  * Bugfix with import version specified
+  * Icon set
+  * Changed some folder names
+
+ -- MountainOS Team <mountainoslinux@gmail.com>  Mon, 21 Apr 2023 22:39:10 +0100
+
+ec (1.0.0) jammy; urgency=medium
+
+  * Initial release.
+
+ -- MountainOS <mountainoslinux@gmail.com>  Sat, 1 Apr 2023 15:33:10 +0000

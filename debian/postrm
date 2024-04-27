@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo gtk-update-icon-cache -f /usr/share/icons/hicolor/
+

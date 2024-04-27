@@ -1,0 +1,15 @@
+Source: ec
+Section: misc
+Priority: optional
+Maintainer: MountainOS <mountainoslinux@gmail.com>
+Build-Depends: debhelper-compat (= 13), dh-python
+Standards-Version: 4.6.2
+Homepage: mountainlinuxos.wordpress.com/eduice
+Rules-Requires-Root: no
+
+Package: ec
+Architecture: all
+Depends: python3-gi, python3-cairo
+Description: EduChooser program for MountainOS EduIce
+ This package contains the EduChooser program to install the right packages for MountainOS EduIce
+
